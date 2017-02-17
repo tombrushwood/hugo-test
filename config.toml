@@ -1,0 +1,5 @@
+languageCode = "en-us"
+title = "Hugo Test Site"
+theme = "hugo-creative"
+baseurl = "localhost:1313/"
+
